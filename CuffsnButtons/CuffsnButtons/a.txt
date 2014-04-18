@@ -1,0 +1,20 @@
+<li class="etalage_small_thumbs" style="top: 455px; width: 362px;">
+                <ul style="width: 372px;">
+                    <li class="etalage_smallthumb_active" style="opacity: 1; margin: 0px 10px 0px 0px;">
+                        
+                        <asp:Image class="etalage_small_thumb" ID="Thumb_Image1" runat="server" style="width: 77px; height: 80px;" />
+                    </li>
+                    <li class="" style="opacity: 0.4; margin: 0px 10px 0px 0px;">
+                        
+                        <asp:Image class="etalage_small_thumb" ID="Thumb_Image2" runat="server" style="width: 77px; height: 80px;" />
+                    </li>
+                    <li class="" style="opacity: 0.4; margin: 0px 10px 0px 0px;">
+                        
+                        <asp:Image class="etalage_small_thumb" ID="Thumb_Image3" runat="server" style="width: 77px; height: 80px;" />
+                    </li>
+                    <li class="" style="opacity: 0.4; margin: 0px 10px 0px 0px;">
+                        
+                        <asp:Image class="etalage_small_thumb" ID="Thumb_Image4" runat="server" style="width: 77px; height: 80px;" />
+                    </li>
+                  </ul>
+              </li>

@@ -1,0 +1,17 @@
+D:\custom_fit\CuffsnButtons\DAL\bin\Debug\DAL.dll.config
+D:\custom_fit\CuffsnButtons\DAL\bin\Debug\DAL.dll
+D:\custom_fit\CuffsnButtons\DAL\bin\Debug\DAL.pdb
+D:\custom_fit\CuffsnButtons\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\custom_fit\CuffsnButtons\DAL\obj\Debug\DAL.dll
+D:\custom_fit\CuffsnButtons\DAL\obj\Debug\DAL.pdb
+E:\Punit_project\10Apr\CuffsnButtons\CuffsnButtons\DAL\bin\Debug\DAL.dll.config
+E:\Punit_project\10Apr\CuffsnButtons\CuffsnButtons\DAL\bin\Debug\DAL.dll
+E:\Punit_project\10Apr\CuffsnButtons\CuffsnButtons\DAL\bin\Debug\DAL.pdb
+E:\Punit_project\10Apr\CuffsnButtons\CuffsnButtons\DAL\obj\Debug\DAL.dll
+E:\Punit_project\10Apr\CuffsnButtons\CuffsnButtons\DAL\obj\Debug\DAL.pdb
+D:\custom_fit\CuffsnButtons_Latest\CuffsnButtons\DAL\bin\Debug\DAL.dll.config
+D:\custom_fit\CuffsnButtons_Latest\CuffsnButtons\DAL\bin\Debug\DAL.dll
+D:\custom_fit\CuffsnButtons_Latest\CuffsnButtons\DAL\bin\Debug\DAL.pdb
+D:\custom_fit\CuffsnButtons_Latest\CuffsnButtons\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\custom_fit\CuffsnButtons_Latest\CuffsnButtons\DAL\obj\Debug\DAL.dll
+D:\custom_fit\CuffsnButtons_Latest\CuffsnButtons\DAL\obj\Debug\DAL.pdb
